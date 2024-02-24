@@ -1,0 +1,285 @@
+{
+  "word-connector": {
+    "and": "y",
+    "or": "o",
+    "to": "a",
+    "from": "de",
+    "of": "de",
+    "in": "en",
+    "on": "en",
+    "with": "con",
+    "for": "para",
+    "day": "día",
+    "week": "semana",
+    "month": "mes",
+    "year": "año",
+    "days": "días",
+    "weeks": "semanas",
+    "months": "meses",
+    "years": "años"
+  },
+  "no-translation-available": "No hay traduccion disponible",
+  "read-next": "Leer a continuación",
+  "heading": "Bienvenido a",
+  "change-locale": "Cambiar Idioma",
+  "error-with-status": "{{statusCode}} error ocurrió en el servidor",
+  "error-without-status": "Un error ocurrió en el server",
+  "edit-on-github": "Editar en Github",
+  "open-google-collab": "Abrir en Colab",
+  "github-not-connected": "Tu cuenta de Github no está conectada.",
+  "github-warning": "Tu cuenta de Github no está conectada. Estudiantes activos de 4Geeks Academy que tengan conectanda su cuenta de Github pueden acceder a horas ilimitadas de Codespaces.",
+  "title": "Bienvenido | Learn",
+  "backToHome": "Volver a la página principal",
+  "goBack": "Volver",
+  "lesson": "Lección",
+  "exercise": "Ejercicio",
+  "project": "Proyecto",
+  "quiz": "Cuestionario",
+  "filter": "Filtro",
+  "filters": "Filtros",
+  "sort": "Ordenar",
+  "close": "Cerrar",
+  "try-again": "Intentar de nuevo",
+  "continue": "Continuar",
+  "confirm": "Confirmar",
+  "submit": "Enviar",
+  "enroll": "Unirse Ahora",
+  "learn-more": "Aprender más",
+  "more-technologies":"Más tecnologías",
+  "continue-learning":"Continúa aprendiendo gratis sobre:",
+  "technologies-and-more": "{{technologies}} y más.",
+  "user-id": "ID de usuario",
+  "day": "Día",
+  "days": "Días",
+  "short-seconds": "Seg",
+  "interactive": "Interactivo",
+  "beginner": "Principiante", 
+  "easy": "Fácil", 
+  "intermediate": "Intermedio", 
+  "hard": "Dificil",
+  "taken-by": "Tomado por",
+  "attended": "Asistió",
+  "modification-date": "Fecha de modificación",
+  "first-name": "Nombre",
+  "last-name": "Apellido",
+  "full-name": "Nombre y Apellido",
+  "time-elapsed": "Tiempo transcurrido",
+  "email": "Correo electrónico",
+  "confirm-email": "Confirmar correo electrónico",
+  "phone": "Teléfono",
+  "password": "Contraseña",
+  "confirm-password": "Confirmar contraseña",
+  "difficulty": "Dificultad",
+  "repository": "Repositorio",
+  "click-to-open": "Clic para abrir",
+  "open": "Abrir",
+  "any-available": "{{any}} disponible",
+  "not-available": "No disponible",
+  "live-demo": "Video de solución",
+  "solution-code": "Solución",
+  "video-solution": "Video solución",
+  "watch-video": "Ver video",
+  "watch-video-solution": "Ver video solución",
+  "review-solution": "Revisar la solución",
+  "live-now": "¡En Vivo!",
+  "live": "En vivo",
+  "technologies": "Tecnologías",
+  "full-screen": "Pantalla completa",
+  "no-title": "Sin título 🙂",
+  "search-not-found": "No se encontraron coincidencias para esta búsqueda",
+  "asset-not-found-in-current-language": "No hay contenido relacionado a esta tecnología que mostrar, pruebe con otro idioma.",
+  "no-elements": "No se encontraron elementos",
+  "select": "Seleccione",
+  "difficulties": "Dificultades",
+  "only-video-tutorials": "Solo video tutoriales",
+  "apply-filters": "Aplicar filtros",
+  "clear-all": "Limpiar todo",
+  "english": "Inglés",
+  "spanish": "Español",
+  "remaining":"Restantes",
+  "show-more": "Mostrar más",
+  "show-less": "Mostrar menos",
+  "seach-technology": "Buscar tecnología",
+  "remove-difficulty": "Remover dificultad",
+  "read-lesson": "Leer lección",
+  "asset-button": {
+    "lesson": "Leer lección",
+    "exercise": "Iniciar ejercicio",
+    "project": "Iniciar proyecto",
+    "article": "Leer articulo"
+  },
+  "copied": "Copiado!",
+  "no-options-message": "No hay mas opciones",
+  "taskStatus": {
+    "project-approved": "Proyecto aprobado",
+    "update-project-delivery": "Actualizar entrega de proyecto",
+    "send-project": "Enviar proyecto",
+    "mark-as-done": "Marcar como hecho",
+    "mark-as-not-done": "Marcar como no hecho"
+  },
+  "learnpack": {
+    "description": "Esta práctica se ejecutará fuera de 4Geeks.com a través de LearnPack. Una herramienta de aprendizaje interactivo que se ejecuta integrada con VSCode.",
+    "new-exercise": "Nuevo ejercicio",
+    "continue-exercise": "Continuar ejercicio"
+  },
+  "upgrade-plan": {
+    "title": "Lo sentimos, no tiene suficientes privilegios para acceder a este bloque de contenido, regístrese o actualice su plan para acceder al contenido.",
+    "button": "Mejorar plan"
+  },
+  "asset-type-pronouns" : {
+    "lesson": "Esta lección",
+    "exercise": "Este ejercicio",
+    "project": "Este proyecto",
+    "quiz": "Este cuestionario"
+  },
+  "subtasks": {
+    "title": "{{asset_type}} tiene {{count}} tareas",
+    "description": "Para aprovechar mejor esta lección, busca las casillas de verificación y márcalas como completadas a medida que avances."
+  },
+  "related-courses": "Cursos relacionados a este artículo",
+  "average-duration": "Duración promedio",
+  "load-more": "Cargar más",
+  "teachers": "Profesores",
+  "teacher": "Profesor",
+  "student": "Alumno",
+  "reviewer": "Revisor",
+  "assistant": "Asistente",
+  "upload": "Subir",
+  "cancel": "Cancelar",
+  "uploading": "Subiendo",
+  "and": "y",
+  "junior": "Junior",
+  "mid-level": "Mid level",
+  "senior": "Senior",
+  "start-free-trial": "Iniciar prueba gratuita",
+  "proceed-to-payment": "Proceder al pago",
+  "select-cohort": "Selecciona una cohorte",
+  "select-all": "Seleccionar todo",
+  "each": "cada {{value}}",
+  "payment": {
+    "pay-per-year": "Pagar {{value}} año",
+    "pay-per-quarter": "Pagar {{value}} trimestre",
+    "pay-per-month": "Pay {{value}} mes",
+    "pay-per-half": "Pay {{value}} medio año"
+  },
+  "upgrade": "Mejora",
+  "go-back": "Regresar",
+  "modal-tech-title": "{{technology}}",
+  "modal-tech-description": "Al ingresar tus datos desbloquearás el contenido interactivo de \"{{title}}\" y muchos más",
+  "coming-soon": "Próximamente",
+  "validators": {
+    "owner_name-required": "El nombre del propietario es requerido",
+    "owner_name-min": "El nombre del propietario es demasiado corto",
+    "card_number-required": "El número de tarjeta es requerido",
+    "exp-required": "La fecha de expiración es necesaria",
+    "cvc-required": "El CVC es requerido",
+    "short-input": "¡Demasiado corto!",
+    "long-input": "Demasiado largo!",
+    "long-file": "El archivo es demasiado grande",
+    "unsupported-image-file": "El archivo debe ser una imagen",
+    "first-name-required": "El nombre es requerido",
+    "last-name-required": "El apellido es requerido",
+    "phone-required": "El teléfono es requerido",
+    "invalid-phone": "Por favor, especifique un número de teléfono válido",
+    "invalid-email": "Correo electrónico inválido",
+    "email-required": "Correo electronico es requerido",
+    "confirm-email-required": "Confirmar Correo electronico es requerido",
+    "confirm-email-not-match": "Los correos electrónicos no coinciden",
+    "geeks-members-max": "El número máximo de miembros es {{value}}",
+    "geeks-members-min": "El número minimo de miembros es {{value}}",
+    "geeks-members-required": "Debe haber al menos un miembro",
+    "description-required": "La descripción es necesaria",
+    "one-line-description-required": "Proporcione una descripción de una línea.",
+    "project-name-error": "Proporcione un nombre de proyecto.",
+    "invalid-url": "URL no válida, el enlace esperado debe contener: {{url}}",
+    "repo-url-required": "La URL del repositorio es necesaria",
+    "github-url-required": "La URL de GitHub es necesaria"
+  },
+  "live-event": {
+    "title": "Clases en vivo, sesiones de codificación, workshops y reuniones cada pocas horas.",
+    "readMoreUrl": "https://4geeks.com/es/docs/knowledge-base-4geeks/live-events-workshops-and-classes"
+  },
+  "upcoming-workshops": "Próximos workshops",
+  "workshop": "Workshop",
+  "submit-project": "Enviar proyecto",
+  "uploadScreenshot": "Subir captura de pantalla",
+  "continue-learning-course": "Continúa aprendiendo gratis sobre:",
+  "logout-and-switch-user": "Cerrar sesión e iniciar como otro usuario",
+  "free": "Gratis",
+  "login": "Iniciar sesión",
+  "privacy-policy": "Política de privacidad",
+  "bootcamp": {
+    "planType": "bootcamp",
+    "type": "Bootcamp",
+    "period_label": "",
+    "title": "Programa de Bootcamp",
+    "description": "Acelera tu cambio de carrera con un Bootcamp",
+    "ask": "Pregunta por el precio",
+    "button": "Solicitar más información",
+    "button_link": "https://4geeksacademy.com/es/programas",
+    "subtitle": "Programa de Bootcamp",
+    "sub-description": "Únete a una cohorte en un ambiente de aula en vivo y obtén soporte ilimitado hasta que encuentres un trabajo.",
+    "service_items": {
+      "title": "Todo en vivo y con comentarios más...",
+      "items": [{
+        "label": "Talleres en vivo ilimitados"
+      },
+      {
+        "label": "Sesiones de tutoría individuales ilimitadas"
+      },
+      {
+        "label": "Sesiones de tutoría grupal ilimitadas"
+      }]
+    },
+    "featured_info": [
+      {
+        "service": {
+          "slug": "live-classes",
+          "title": "Clases en vivo",
+          "icon": "onlinePeople"
+        },
+        "features": [{ "description": "Toma parte de un grupo de estudiantes aprendiendo juntos semanalmente en clases en vivo con un profesor." }]
+      },
+      {
+        "service": {
+          "slug": "career-support",
+          "title": "Career support",
+          "icon": "support"
+        },
+        "features": [{ "description": "Obtenga comentarios sobre su currículum, LinkedIn y otros perfiles en línea, y acceda a nuestra amplia red de socios de contratación, oportunidades de pasantías y más." }]
+      },
+      {
+        "service": {
+          "slug": "job-guarantee",
+          "title": "Garantía de trabajo*",
+          "icon": "briefcase"
+        },
+        "features": [{ "description": "Obtén un trabajo dentro de los 6 meses posteriores a la graduación o recibe tu dinero de vuelta; se aplican condiciones." }]
+      },
+      {
+        "service": {
+          "slug": "certified-by-us",
+          "title": "Certificados por el Dep. de Educación dee FL, U.S.",
+          "icon": "certificate"
+        },
+        "features": [{ "description": "Nuestros certificados de los bootcamps incluyen una insignia certificada por el Dep. de Educación de FL, U.S." }]
+      },
+      {
+        "service": {
+          "slug": "access-to-premium-community",
+          "title": "Acceso a la comunidad premium",
+          "icon": "crown"
+        },
+        "features": [{ "description": "Nuestra comunidad premium te ofrece acceso a espacios de oficina al rededor del mundo, eventos de las empresas asociadas y empleadores, ferias de trabajo, eventos para networking, un canal exclusivo de slack, y más beneficios." }]
+      },
+      {
+        "service": {
+          "slug": "office-space-world-wide",
+          "title": "Espacio de oficinas en todo el mundo",
+          "icon": "office"
+        },
+        "features": [{ "description": "Obtenga acceso a espacios de oficinas en todo el mundo." }]
+      }
+    ]
+  }
+}

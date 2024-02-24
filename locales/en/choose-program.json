@@ -1,0 +1,49 @@
+{
+  "seo": {
+    "title": "Choose program"
+  },
+  "title": "Your Programs",
+  "welcome-back-user": "Welcome back, {{name}}",
+  "welcome": "Welcome",
+  "your-active-programs": "Your active programs",
+  "join-our-community": "Join our community",
+  "enroll-programs": "Enroll in one of our programs!",
+  "not-enrolled": "You are not enrolled in any cohort",
+  "available-programs": "Available programs",
+  "read-to-start-learning": "Ready to start learning?",
+  "invite": {
+    "notify": "Hey! There are {{cohortInvitationWord}} for you to accept.",
+    "plural-word": "{{invitesLength}} new cohort invitations",
+    "singular-word": "{{invitesLength}} new cohort invitation",
+    "show": "show invites",
+    "hide": "hide invites",
+    "accept": "Accept"
+  },
+  "finished": {
+    "plural": "There are {{finishedCohorts}} programs you have already finished.",
+    "singular": "There is {{finishedCohorts}} program you have already finished.",
+    "show": "click here to display them",
+    "hide": "click here to hide them"
+  },
+  "program-list": {
+    "mentors-available": "{{count}} Mentors available",
+    "start-course": "Start course",
+    "continue-course": "Continue course"
+  },
+  "roles-info": "Roles are only displayed in development mode",
+  "launch-program": "Launch this program",
+  "description": "These are the courses and cohorts that we found you are currently taking, please choose the course you want to take today:",
+  "sidebar": {
+    "live-events-title": "Learn LIVE",
+    "join-our-community": "Join our community"
+  },
+  "feedback": {
+    "title": "Feedback",
+    "connect-rigobot-text": "You need to connect to Rigo AI in order to obtain feedback.",
+    "connect-rigobot": "Connect with Rigobot",
+    "why-feedback-text": "Feedback plays an important role when learning technical skills",
+    "learn-why": "Learn why",
+    "code-review": "Code review",
+    "no-code-reviews-text": "In this space, you will have access to the feedback provided by your teacher once you have submitted your project."
+  }
+}

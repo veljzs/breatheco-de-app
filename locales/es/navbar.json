@@ -1,0 +1,183 @@
+{
+  "login": "Ingresar",
+  "get-started": "Empezar",
+  "logout": "Cerrar sesión",
+  "language": "Idioma",
+  "my-profile": "Mi perfil",
+  "course-details": "Detalles del curso",
+  "upgrade-experience": "Mejorar experiencia",
+  "ITEMS": [
+    {
+      "label": "Dashboard",
+      "private": true,
+      "href": "{{selectedProgramSlug}}"
+    },
+    {
+      "id": "courses",
+      "label": "Cursos",
+      "icon": "graduationCap",
+      "description": "Explora nuestra extensa colección de cursos diseñados para ayudarte a dominar varios temas y habilidades. Ya seas un principiante o un aprendiz avanzado, aquí hay algo para todos.",
+      "asPath": "/courses",
+      "subMenu": [],
+      "position": 1
+    },
+    {
+      "id": "bootcamp",
+      "label": "Bootcamp de Programación",
+      "href": "https://4geeksacademy.com",
+      "hide_on_auth": true,
+      "position": 2
+    },
+    {
+      "id": "events",
+      "label": "Aprende en vivo",
+      "icon": "calendar",
+      "private": false,
+      "description": "Únete a nosotros en nuestros talleres gratuitos, webinars y otros eventos para aprender más sobre nuestros programas y comenzar tu camino para convertirte en desarrollador.",
+      "subMenu": [
+        {
+          "label": "Eventos en vivo",
+          "slug": "live-events",
+          "asPath": "/workshops",
+          "icon": "live-event",
+          "description": "",
+          "subMenu": [
+            {
+              "href": "/workshops",
+              "label": "Próximos eventos en vivo"
+            }
+          ]
+        },
+        {
+          "label": "Podcast",
+          "slug": "podcast",
+          "asPath": "/workshops",
+          "icon": "microphone",
+          "description": "Un podcast de cultura tecnológica donde aprenderás a luchar contra los enemigos para convertirte en un profesional exitoso en tecnología.",
+          "subMenu": [
+            {
+              "href": "/podcast",
+              "label": "Listar todos los episodios"
+            }
+          ]
+        }
+      ],
+      "position": 3
+    },
+    {
+      "id": "read",
+      "label": "Catálogo de contenidos",
+      "icon": "book",
+      "description": "Para los geeks autodidactas, este es nuestro extenso catálogo de contenido con todos los materiales y tutoriales que hemos desarrollado hasta el día de hoy.",
+      "asPath": "/read",
+      "subMenu": [
+        {
+          "label": "Lecturas y videos",
+          "slug": "lessons",
+          "asPath": "/read-and-watch",
+          "description": "Tiene sentido comenzar a aprender leyendo y viendo videos sobre los fundamentos y cómo funcionan las cosas.",
+          "subMenu": [],
+          "subMenuContent": [
+            {
+              "href": "/lessons",
+              "label": "Buscar en lecciones"
+            }
+          ]
+        },
+        {
+          "label": "Prácticas Interactivas",
+          "slug": "exercises",
+          "subLabel": "",
+          "description": "Lista curada de tutoriales interactivos, con soluciones y videos para practicar y mejorar tus habilidades.",
+          "subMenu": [
+            {
+              "href": "/interactive-exercises",
+              "label": "Comenzar a practicar"
+            }
+          ]
+        },
+        {
+          "label": "Construye Projectos",
+          "slug": "projects",
+          "description": "Selección curada de tutoriales y projectos para construir con instrucciones simples y video soluciones",
+          "subMenu": [
+            {
+              "href": "/interactive-coding-tutorials",
+              "label": "Comienza a construir"
+            }
+          ]
+        },
+        {
+          "label": "Preguntas Frecuentes",
+          "slug": "how-tos",
+          "description": "Guías sobre distintos temas relacionados con las tecnologías que enseñamos en nuestros cursos",
+          "subMenu": [
+            {
+              "href": "/how-to",
+              "label": "Ver las preguntas más frecuentes"
+            }
+          ]
+        }
+      ],
+      "position": 4
+    },
+    {
+      "id": "pricing",
+      "label": "Precios",
+      "href": "/pricing",
+      "hide_on_auth": true,
+      "position": 5
+    }
+  ],
+
+  "white-label-version-items": [
+    {
+      "label": "Dashboard",
+      "private": true,
+      "href": "{{selectedProgramSlug}}"
+    },
+    {
+      "label": "Más formas de aprender",
+      "private": true,
+      "icon": "4GeeksIcon",
+      "image": "/static/images/4geeks.png",
+      "description": "Miami Tech Works es parte de la comunidad de aprendizaje de 4Geeks. Visita 4Geeks.com para obtener más lecciones interactivas, talleres, mentorías y aprendizaje con IA.",
+      "with_popover": {
+        "active": true,
+        "title": "Llévame a 4Geeks.com",
+        "link": "https://4geeks.com/es"
+      },
+      "subMenu": []
+    }
+  ],
+  "white-label-version-items": [
+    {
+      "label": "Dashboard",
+      "private": true,
+      "href": "{{selectedProgramSlug}}"
+    },
+    {
+      "label": "Más formas de aprender",
+      "private": true,
+      "icon": "4GeeksIcon",
+      "image": "/static/images/4geeks.png",
+      "description": "Miami Tech Works es parte de la comunidad de aprendizaje de 4Geeks. Visita 4Geeks.com para obtener más lecciones interactivas, talleres, mentorías y aprendizaje con IA.",
+      "with_popover": {
+        "active": true,
+        "title": "Llévame a 4Geeks.com",
+        "link": "https://4geeks.com/es"
+      },
+      "subMenu": []
+    }
+  ],
+  "languages": [
+    {
+      "label": "Ingles",
+      "value": "en"
+    },
+    {
+      "label": "Español",
+      "value": "es"
+    }
+  ]
+}

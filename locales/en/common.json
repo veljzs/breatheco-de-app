@@ -1,0 +1,285 @@
+{
+  "word-connector": {
+    "and": "and",
+    "or": "or",
+    "to": "to",
+    "from": "from",
+    "of": "of",
+    "in": "in",
+    "on": "on",
+    "with": "with",
+    "for": "for",
+    "day": "day",
+    "week": "week",
+    "month": "month",
+    "year": "year",
+    "days": "days",
+    "weeks": "weeks",
+    "months": "months",
+    "years": "years"
+  },
+  "no-translation-available": "No translation available",
+  "read-next": "Read next",
+  "heading": "Welcome to",
+  "change-locale": "Change locale",
+  "error-with-status": "A {{statusCode}} error occurred on server",
+  "error-without-status": "An error occurred on the server",
+  "edit-on-github": "Edit on Github",
+  "open-google-collab": "Open in Colab",
+  "github-not-connected": "Your Github account is not connected.",
+  "github-warning": "Your Github account is not connected. Only active 4Geeks Academy students with a conected Github account will be able to get unlimited Codespace hours.",
+  "title": "Welcome | Learn",
+  "backToHome": "Back to home",
+  "goBack": "Go Back",
+  "lesson": "Lesson",
+  "exercise": "Exercise",
+  "project": "Project",
+  "quiz": "Quiz",
+  "filter": "Filter",
+  "filters": "Filters",
+  "sort": "Sort",
+  "close": "Close",
+  "try-again": "Try again",
+  "continue": "Continue",
+  "confirm": "Confirm",
+  "submit": "Submit",
+  "enroll": "Enroll now",
+  "learn-more": "Learn more",
+  "more-technologies":"More technologies",
+  "continue-learning":"Continue learning for free about:",
+  "technologies-and-more": "{{technologies}} and more.",
+  "user-id": "User ID",
+  "day": "Day",
+  "days": "Days",
+  "short-seconds": "Sec",
+  "interactive": "Interactive",
+  "beginner": "Beginner", 
+  "easy": "Easy", 
+  "intermediate": "Intermediate", 
+  "hard": "Hard",
+  "taken-by": "Taken by",
+  "attended": "Attended",
+  "modification-date": "Modification date",
+  "first-name": "First name",
+  "last-name": "Last name",
+  "full-name": "Full name",
+  "time-elapsed": "Time elapsed",
+  "email": "Email",
+  "confirm-email": "Confirm email",
+  "phone": "Phone",
+  "password": "Password",
+  "confirm-password": "Confirm password",
+  "difficulty": "Difficulty",
+  "repository": "Repository",
+  "click-to-open": "Click to open",
+  "open": "Open",
+  "any-available": "{{any}} available",
+  "not-available": "Not available",
+  "live-demo": "Solution video",
+  "solution-code": "Solution code",
+  "video-solution": "Video solution",
+  "watch-video": "Watch video",
+  "watch-video-solution": "Watch video solution",
+  "review-solution": "Review solution code",
+  "live-now": "Live Now!",
+  "live": "Live",
+  "technologies": "Technologies",
+  "full-screen": "Full screen",
+  "no-title": "No title 🙂",
+  "search-not-found": "No matches found for this search",
+  "asset-not-found-in-current-language": "There is no content for this technology in this language, try a different language.",
+  "no-elements": "No elements found",
+  "select": "Select",
+  "difficulties": "Difficulties",
+  "only-video-tutorials": "Only video tutorials",
+  "apply-filters": "Apply filters",
+  "clear-all": "Clear all",
+  "english": "English",
+  "spanish": "Spanish",
+  "remaining":"Remaining",
+  "show-more": "Show more",
+  "show-less": "Show less",
+  "seach-technology": "Search technology",
+  "remove-difficulty": "Remove difficulty",
+  "read-lesson": "Read lesson",
+  "asset-button": {
+    "lesson": "Read lesson",
+    "exercise": "Start exercise",
+    "project": "Start project",
+    "article": "Read article"
+  },
+  "copied": "Copied!",
+  "no-options-message": "No options available",
+  "taskStatus": {
+    "project-approved": "Project approved",
+    "update-project-delivery": "Update project delivery",
+    "send-project": "Send project",
+    "mark-as-done": "Mark as done",
+    "mark-as-not-done": "Mark as not done"
+  },
+  "learnpack": {
+    "description": "This practice will reroute your browser to LearnPack - an interactive learning tool that runs integrated with VSCode.",
+    "new-exercise": "Start new exercise",
+    "continue-exercise": "Continue exercise"
+  },
+  "upgrade-plan": {
+    "title": "We are sorry, you don't have enough privileges to access this block of content, please signup or upgrade your plan to access it.",
+    "button": "Upgrade plan"
+  },
+  "asset-type-pronouns" : {
+    "lesson": "This lesson",
+    "exercise": "This exercise",
+    "project": "This project",
+    "quiz": "This quiz"
+  },
+  "subtasks": {
+    "title": "{{asset_type}} has {{count}} tasks",
+    "description": "To take better advantage of this lesson, look for the checkboxes and mark them as completed as you make progress."
+  },
+  "related-courses": "Courses related to this article",
+  "average-duration": "Average duration",
+  "load-more": "Load more",
+  "teachers": "Teachers",
+  "teacher": "Teacher",
+  "student": "Student",
+  "reviewer": "Reviewer",
+  "assistant": "Assistant",
+  "upload": "Upload",
+  "cancel": "Cancel",
+  "uploading": "Uploading",
+  "and": "and",
+  "junior": "Junior",
+  "mid-level": "Mid level",
+  "senior": "Senior",
+  "start-free-trial": "Start free trial",
+  "proceed-to-payment": "Proceed to payment",
+  "select-cohort": "Select a cohort",
+  "select-all": "Select all",
+  "each": "each",
+  "payment": {
+    "pay-per-year": "Pay {{value}} year",
+    "pay-per-quarter": "Pay {{value}} quarter",
+    "pay-per-month": "Pay {{value}} month",
+    "pay-per-half": "Pay {{value}} half"
+  },
+  "upgrade": "Upgrade",
+  "go-back": "Go back",
+  "modal-tech-title": "{{technology}}",
+  "modal-tech-description": "By entering your data you will unlock the interactive content of \"{{title}}\" and many more",
+  "coming-soon": "Coming soon",
+  "validators": {
+    "owner_name-required": "Owner name is required",
+    "owner_name-min": "Owner name is too short",
+    "card_number-required": "Card number is required",
+    "exp-required": "Expiration date is required",
+    "cvc-required": "CVC is required",
+    "short-input": "Too Short!",
+    "long-input": "Too Long!",
+    "long-file": "File is too large",
+    "unsupported-image-file": "Unsupported image file",
+    "first-name-required": "First name is required",
+    "last-name-required": "Last name is required",
+    "phone-required": "Phone number is required",
+    "invalid-phone": "Please specify a valid phone number",
+    "invalid-email": "Invalid email",
+    "email-required": "Email is required",
+    "confirm-email-required": "Confirm Email is required",
+    "confirm-email-not-match": "Emails don't match",
+    "geeks-members-max": "The maximum number of members is {{value}}",
+    "geeks-members-min": "The minimum number of members is {{value}}",
+    "geeks-members-required": "There must be at least one member",
+    "description-required": "Description is required",
+    "one-line-description-required": "Provide a one line description.",
+    "project-name-error": "Please provide a project name.",
+    "invalid-url": "Invalid URL, expected link must contain: {{url}}",
+    "repo-url-required": "Repository URL is required",
+    "github-url-required": "Github URL is required"
+  },
+  "live-event": {
+    "title": "Live classes, coding sessions, workshops and hangouts every few hours.",
+    "readMoreUrl": "https://4geeks.com/docs/knowledge-base-4geeks/live-events-workshops-and-classes"
+  },
+  "upcoming-workshops": "Upcoming workshops",
+  "workshop": "Workshop",
+  "submit-project": "Submit project",
+  "uploadScreenshot": "Upload screenshot",
+  "continue-learning-course": "Continue learning for free about:",
+  "logout-and-switch-user": "Logout and switch user",
+  "free": "Free",
+  "login": "Login",
+  "privacy-policy": "Privacy policy",
+  "bootcamp": {
+    "planType": "bootcamp",
+    "type": "Unlimited Experience",
+    "period_label": "",
+    "title": "Bootcamp Program",
+    "description": "Fast track your career change with a Bootcamp",
+    "ask": "Ask for pricing",
+    "button": "Request More Info",
+    "button_link": "https://4geeksacademy.com/programs",
+    "subtitle": "Bootcamp Program",
+    "sub-description": "Join a cohort in a live classroom environment and  unlimited support until you find a job.",
+    "service_items": {
+      "title": "Everything on Live & with Feedback plus...",
+      "items": [{
+        "label": "Unlimited live workshops "
+      },
+      {
+        "label": "Unlimited one-on-one mentoring sessions"
+      },
+      {
+        "label": "Unlimited group mentoring sessions"
+      }]
+    },
+    "featured_info": [
+      {
+        "service": {
+          "slug": "live-classes",
+          "title": "Live classes",
+          "icon": "onlinePeople"
+        },
+        "features": [{ "description": "Take part of a group of students learning together with a teacher on weekly live classes." }]
+      },
+      {
+        "service": {
+          "slug": "carrer-support",
+          "title": "Career support",
+          "icon": "support"
+        },
+        "features": [{ "description": "Get feedback on your resume, LinkedIn and other online profiles, and access our vast hiring partner network, internship opportunities and more." }]
+      },
+      {
+        "service": {
+          "slug": "job-guarantee",
+          "title": "Job guarantee*",
+          "icon": "briefcase"
+        },
+        "features": [{ "description": "Get a job within 6 months upon graduation or get money back; <a style=\"color: #0097CD;\" target=\"__blank\" href='https://storage.googleapis.com/4geeks-academy-website/PDF%20and%20Docs/Conditions%20Job%20Guaranteed%20Program.pdf'>conditions apply.</a>" }]
+      },
+      {
+        "service": {
+          "slug": "certified-by-us",
+          "title": "Certified by U.S. FL Dep. of Education",
+          "icon": "certificate"
+        },
+        "features": [{ "description": "Our bootcamp certificates have a badge certified by the US Florida Dep. of Education." }]
+      },
+      {
+        "service": {
+          "slug": "access-to-premium-community",
+          "title": "Access to premium community",
+          "icon": "crown"
+        },
+        "features": [{ "description": "Our premium community gives you access to office space worldwide, events inside partner companies and employers, job fairs, networking events, an exclusive slack channel, and more perks." }]
+      },
+      {
+        "service": {
+          "slug": "office-space-world-wide",
+          "title": "Office space world-wide",
+          "icon": "office"
+        },
+        "features": [{ "description": "Get access to office space world-wide." }]
+      }
+    ]
+  }
+}
